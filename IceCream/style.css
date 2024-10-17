@@ -1,0 +1,23 @@
+body {
+    background-color: cornflowerblue;
+    color: darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+input[ type=radio] {
+    display: block;
+}
+
+label {
+    width: 40vw;
+    display: inline-block;
+    white-space: norwrap;
+}
+#toppings {
+background-color: blanchedalmond;
+}
+#toppings legend {
+    background-color: darkblue;
+    color: lightcyan;
+    padding: 0.5rem;
+}
